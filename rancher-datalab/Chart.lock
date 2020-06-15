@@ -1,0 +1,9 @@
+dependencies:
+- name: jupyterhub
+  repository: https://jupyterhub.github.io/helm-chart/
+  version: 0.8.2
+- name: airflow
+  repository: https://charts.bitnami.com/bitnami
+  version: 4.1.1
+digest: sha256:a53abe0ee9b183e14523c8c7113e81b319f14878298bbb39501934eb3ded22db
+generated: "2020-01-30T07:16:04.23461036-06:00"

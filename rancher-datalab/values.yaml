@@ -1,0 +1,16 @@
+airflow:
+    metrics:
+      enabled: true
+    service:
+      type: LoadBalancer
+    airflow:
+      auth:
+        username: myuser2
+        password: pass
+      cloneDagFilesFromGit:
+        enabled: true
+        repository: https://github.com/colek42/test-airflow
+        branch: master
+jupyterhub:
+    proxy:
+      secretToken: 213e3779af143a37167646cfb1466d5ff28b435e7d35f4f11989b758d73f8353

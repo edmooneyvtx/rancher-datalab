@@ -1,0 +1,11 @@
+questions:
+  - variable: airflow.airflow.cloneDagFilesFromGit.repository
+    type: string
+    default: https://github.com/colek42/test-airflow
+    required: true
+    description: "Git repo for DAG files"
+  - variable: airflow.airflow.cloneDagFilesFromGit.branch
+    type: string
+    default: master
+    required: true
+    description: "Git repo branch"
