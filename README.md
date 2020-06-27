@@ -1,4 +1,4 @@
-# Oseries (Rancher)
+# Oseries (Rancher App)
 
 - Oseries Dev
     Oseries
