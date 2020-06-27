@@ -7,3 +7,8 @@ questions:
     default: randompass1@#
     description: "password for initial user"
     type: string
+  - variable: tomcat.USERNAME
+    default: dockeruser
+    description: "docker username for tomcat"
+    type: string
+    required: true
