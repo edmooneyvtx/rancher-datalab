@@ -1,11 +1,9 @@
 questions:
-  - variable: airflow.airflow.cloneDagFilesFromGit.repository
+  - variable: vertexinc.initialuser
     type: string
-    default: https://github.com/colek42/test-airflow
+    default: admin
     required: true
-    description: "Git repo for DAG files"
-  - variable: airflow.airflow.cloneDagFilesFromGit.branch
+  - variable: vertexinc.initialuserpassword
+    default: randompass1@#
+    description: "password for initial user"
     type: string
-    default: master
-    required: true
-    description: "Git repo branch"
