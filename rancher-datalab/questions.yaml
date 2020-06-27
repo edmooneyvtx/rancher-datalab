@@ -12,3 +12,11 @@ questions:
     description: "docker username for tomcat"
     type: string
     required: true
+  - variable: vertexinc.licensekey
+    default: ENTERLICENSEKEY
+    description: "Enter your Vertex Inc license key"
+    type: string
+  - variable: vertexinc.customerid
+    default: ENTERCUSTOMERID
+    description: "Enter your Vertex Inc customerID"
+    type: string
