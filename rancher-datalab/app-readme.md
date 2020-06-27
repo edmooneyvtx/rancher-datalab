@@ -1,7 +1,5 @@
 Vertex Oseries
 
-![vertex-logo](https://github.com/edmooneyvtx/vertexinc-oseries-rancherapp/raw/master/vtx-logo-rancherapp.png)
-
 v.9.2 
 package v. 0.2
 
