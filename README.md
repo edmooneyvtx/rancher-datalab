@@ -1,7 +1,6 @@
-# Rancher Datalab
+# Rancher Oseries
 
-- DataLab
-    Spark
-    Airflow
-    Jupyter
+- Oseries Dev
+    Oseries
+    DB
 - Security
