@@ -1,4 +1,4 @@
-# Rancher Oseries
+# Oseries (Rancher)
 
 - Oseries Dev
     Oseries
