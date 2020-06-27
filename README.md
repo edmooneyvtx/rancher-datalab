@@ -1,8 +1,9 @@
-# Oseries (Rancher App)
+# Oseries
 
 ![vertex-logo](https://github.com/edmooneyvtx/vertexinc-oseries-rancherapp/blob/master/vtx-logo-rancherapp.png)
 
 Contains Vertex Oseries and sample demo connectors
+(Rancher App Support)
 
 - Oseries Dev
     Oseries
