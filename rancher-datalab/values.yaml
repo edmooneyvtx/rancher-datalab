@@ -13,3 +13,8 @@ oseriesdo:
       enabled: true
     service:
       type: LoadBalancer
+oseriesvmware:
+    metrics:
+      enabled: true
+    service:
+      type: LoadBalancer
